@@ -1,3 +1,4 @@
+
 # RANGKUMAN
 1. **Jaringan Seluler** adalah teknologi yang memungkinkan pengiriman dan penerimaan data dalam bentuk paket data yang berkaitan dengan e-mail, data gambar, dan penelusuran internet.
 
