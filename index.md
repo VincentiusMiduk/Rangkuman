@@ -1,37 +1,57 @@
-## Welcome to GitHub Pages
+# RANGKUMAN
+1. **Jaringan Seluler** adalah teknologi yang memungkinkan pengiriman dan penerimaan data dalam bentuk paket data yang berkaitan dengan e-mail, data gambar, dan penelusuran internet.
 
-You can use the [editor on GitHub](https://github.com/VincentiusMiduk/Rangkuman/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+2. **CDMA (code division multiple access)** adalah teknologi akses jamak dimana masing-masing user menggunakan code yang unik dalam mengakses kanal yang terdapat dalam sistem.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+3. **Antena** adalah konduktor elektrik yang berfungsi
+untuk :
+- Transmisi (Transmission) : Meradiasikan energi elektromagnetik ke
+ruang bebas/space
+- Penerimaan (Reception) : Mengumpulkan/menerima energi
+elektromagnetik dari ruang bebas/space
+Pada komunikasi dua arah, antena yang sama dapat
+digunakan untuk transmission dan reception.
 
-### Markdown
+4. **WiMAX** adalah singkatan dari Worldwide Interoperability for
+Microwave Access, merupakan teknologi akses nirkabel pita lebar
+(broadband wireless access atau disingkat BWA) yang memiliki
+kecepatan akses yang tinggi dengan jangkauan yang luas.
+Pada jaringan selular juga telah dikembangkan teknologi yang dapat
+mengalirkan data yang cepat dengan jaringan suara seperti GPRS,
+EDGE, WCDMA, dan HSDPA.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+5. **Satelit** adalah benda langit yang tidak memiliki sumber cahaya sendiri dan bergerak mengelilingi planet tertentu sambil mengikuti planet tersebut beredar dengan periode revolusi dan rotasi tertentu.
 
-```markdown
-Syntax highlighted code block
+6. **GPS** (Global Positioning System)
+adalah sistem navigasi yang menggunakan satelit didesain agar dapat menyediakan posisi secara instan, kecepatan dan informasi waktu di hampir semua tempat di muka bumi, setiap saat dan dalam kondisi cuaca apapun.
+- Sistem satelit navigasi dan penentuan posisi.
+- Didesain untuk memberikan informasi tentang posisi
+dan kecepatan, serta informasi waktu.
+- Cakupan seluruh dunia.
+- Beroperasi secara kontinyu.
+- Tidak tergantung cuaca.
+- Dapat digunakan oleh banyak orang pada saat yang
+sama.
+- Sistem militer yang dimiliki dan dikelola oleh Dept.
+- Pertahanan Amerika Serikat.
+- Prinsip dasar penentuan posisi adalah reseksi
+(pengikatan ke belakang) dengan jarak, yaitu dengan
+mengukur jarak ke beberapa satelit sekaligus.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/VincentiusMiduk/Rangkuman/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+7. **Global System for Mobile Communication (GSM)**
+merupakan sebuah teknologi komunikasi selular
+yang bersifat digital.
+Teknologi GSM banyak diterapkan pada mobile
+communication, khususnya handphone. Teknologi ini
+memanfaatkan gelombang mikro dan pengiriman
+sinyal yang dibagi berdasarkan waktu, sehingga
+sinyal informasi yang dikirim akan sampai pada
+tujuan.
+GSM dijadikan standar global untuk komunikasi
+selular sekaligus sebagai teknologi selular yang
+paling banyak digunakan orang di seluruh dunia.
+Secara Umum GSM di bagi menjadi 4 Yaitu : 
+- Mobile Station (MS)
+- Base Station Sub-system (BSS)
+- Network Sub-system (NSS),
+- Operation and Support System (OSS)
